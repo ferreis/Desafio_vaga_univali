@@ -1,0 +1,122 @@
+[
+    {
+        "nome": "Arroz",
+        "unidade": "Quilograma (Kg)",
+        "quantidade": "5",
+        "preco": "R$ 20,00",
+        "perecivel": true,
+        "dtValidade": "2024-01-01",
+        "vencido": true,
+        "dtFabricacao": "2024-01-02"
+    },
+    {
+        "nome": "Leite",
+        "unidade": "Litro (Lt)",
+        "quantidade": "10",
+        "preco": "R$ 15,00",
+        "perecivel": true,
+        "dtValidade": "2024-08-10",
+        "vencido": false,
+        "dtFabricacao": "2024-06-01"
+    },
+    {
+        "nome": "Maçã",
+        "unidade": "Unidade (Un)",
+        "quantidade": "12",
+        "preco": "R$ 24,00",
+        "perecivel": true,
+        "dtValidade": "2024-07-20",
+        "vencido": false,
+        "dtFabricacao": "2024-06-15"
+    },
+    {
+        "nome": "Feijão",
+        "unidade": "Quilograma (Kg)",
+        "quantidade": "3",
+        "preco": "R$ 12,00",
+        "perecivel": false,
+        "dtValidade": "2025-01-15",
+        "vencido": false,
+        "dtFabricacao": "2024-02-20"
+    },
+    {
+        "nome": "Óleo",
+        "unidade": "Litro (Lt)",
+        "quantidade": "2",
+        "preco": "R$ 8,00",
+        "perecivel": false,
+        "dtValidade": "2025-06-30",
+        "vencido": false,
+        "dtFabricacao": "2024-03-10"
+    },
+    {
+        "nome": "Cereal",
+        "unidade": "Quilograma (Kg)",
+        "quantidade": "1",
+        "preco": "R$ 7,00",
+        "perecivel": false,
+        "dtValidade": "2024-11-20",
+        "vencido": false,
+        "dtFabricacao": "2024-01-10"
+    },
+    {
+        "nome": "Tomate",
+        "unidade": "Litro (Lt)",
+        "quantidade": "4",
+        "preco": "R$ 10,00",
+        "perecivel": true,
+        "dtValidade": "2024-09-15",
+        "vencido": false,
+        "dtFabricacao": "2024-08-05"
+    },
+    {
+        "nome": "Pão",
+        "unidade": "Unidade (Un)",
+        "quantidade": "6",
+        "preco": "R$ 18,00",
+        "perecivel": true,
+        "dtValidade": "2024-07-10",
+        "vencido": false,
+        "dtFabricacao": "2024-06-30"
+    },
+    {
+        "nome": "Açúcar",
+        "unidade": "Quilograma (Kg)",
+        "quantidade": "2",
+        "preco": "R$ 6,00",
+        "perecivel": false,
+        "dtValidade": "2026-12-31",
+        "vencido": false,
+        "dtFabricacao": "2024-05-15"
+    },
+    {
+        "nome": "Suco de Laranja",
+        "unidade": "Litro (Lt)",
+        "quantidade": "3",
+        "preco": "R$ 9,00",
+        "perecivel": true,
+        "dtValidade": "2024-10-01",
+        "vencido": false,
+        "dtFabricacao": "2024-07-01"
+    },
+    {
+        "nome": "Pão",
+        "unidade": "Unidade (Un)",
+        "quantidade": "6",
+        "preco": "R$ 18,00",
+        "perecivel": true,
+        "dtValidade": "2024-07-10",
+        "vencido": false,
+        "dtFabricacao": "2024-06-30"
+    },
+    {
+        "nome": "Açúcar",
+        "unidade": "Quilograma (Kg)",
+        "quantidade": "2",
+        "preco": "R$ 6,00",
+        "perecivel": false,
+        "dtValidade": "2026-12-31",
+        "vencido": false,
+        "dtFabricacao": "2024-05-15"
+    }
+]
